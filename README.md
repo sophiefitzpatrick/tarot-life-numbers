@@ -17,7 +17,7 @@ Found my tarot cards, and decided it might be a fun little programming project. 
 
 ## Getting Started
 
-1. `git clone https://github.com/sophiefitzpatrick/department-of-mysteries.git`
+1. `git clone git@github.com:sophiefitzpatrick/tarot-life-numbers.git`
 2. `python3 run.py`
 
 
@@ -45,7 +45,7 @@ Life Number - 4 - https://numerology.astro-seek.com/life-path-number/4
 And I have a Master Number - 22 - https://www.numerology.com/numerology-news/master-numbers
 
 To calculate:
-1. `git clone https://github.com/sophiefitzpatrick/department-of-mysteries.git`
+1. `git clone git@github.com:sophiefitzpatrick/tarot-life-numbers.git`
 2. Edit the two function calls at the end of the file with your birth date and the year you want to know about i.e. day, month, year | 20, 04, 2020
 3. `python3 life_numbers.py`
 
