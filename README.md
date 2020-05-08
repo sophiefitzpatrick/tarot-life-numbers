@@ -2,9 +2,7 @@
 
 April 2020
 
-A command line tarot reading, with the option of two spreads (the "Celtic" and the "Fan").
-
-Card meanings by https://www.biddytarot.com/
+A command line tarot reading, with the option of two spreads (the "Celtic" and the "Fan"). Card meanings by https://www.biddytarot.com/
 
 As for interpratation, I've not got that far `¯\_(ツ)_/¯` - but there are lots
 of resources online to help you!
@@ -38,10 +36,12 @@ https://www.numerology.com/numerology-news/master-numbers
 
 ![Screenshot](screenshots/life_numbers.png)
 
-The example above is mine for my birth date and this year (2020).
+The example above is mine for my birth date and this year (2020):
 
 Personal Year - 7 - https://numerology.astro-seek.com/personal-year/7
+
 Life Number - 4 - https://numerology.astro-seek.com/life-path-number/4
+
 And I have a Master Number - 22 - https://www.numerology.com/numerology-news/master-numbers
 
 To calculate:
